@@ -1,12 +1,8 @@
 {
-	"name": "fcc-learn-npm-package-json",
-<<<<<<< HEAD
-=======
-	"author": "Haile Weleslassie ",
+	"name": "fcc-learn-npm-package-json"
 	"dependencies": {
 		"express": "^4.14.0"
 	},
->>>>>>> 3557ded28e47e7683fa0043f7710283bd328ec15
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
